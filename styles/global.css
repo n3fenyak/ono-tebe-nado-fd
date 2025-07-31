@@ -29,7 +29,7 @@ blockquote {
 
 a {
   color: inherit;
-  display: block;
+  /* display: block; */
 }
 
 img {
